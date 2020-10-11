@@ -1,5 +1,6 @@
-# CPNT260 Final Project: 5-Page Static Site 
+# CPNT260 Final Project: 5-Page Static Site
 by Michael Mardell
+[GitHub Pages](https://aggressiveperfector.github.io/cpnt260-final/index.html)
 
 ## Comments
 1. Used a conventional static menu instead of responsive "hamburger" menu due to personal limitations/upcoming lessons surrounding javascript.
